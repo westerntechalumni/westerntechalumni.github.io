@@ -44,12 +44,6 @@ p {
     }
 }
 
-ul {
-    margin: 0 0 25px;
-    font-size: 18px;
-    line-height: 1.5;
-}
-
 a {
     color: #42dca3;
     -webkit-transition: all .2s ease-in-out;
@@ -272,11 +266,20 @@ a:focus {
     padding-top: 100px;
 }
 
-.download-section {
+.about-section {
+  background: url(../img/career_clinic.png) no-repeat center center scroll;
+  background-color: #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;  
+}
+
+.resources-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    background: url(../img/career_clinic.png) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
