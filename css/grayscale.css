@@ -160,11 +160,11 @@ a:focus {
     vertical-align: middle;
 }
 
-.intro .intro-body {
+.intro .intro-body .brand-heading{
     font-size: 40px;
 }
 
-.brand-heading {
+.wta {
   font-family: Cousine,"Helvetica Neue",Helvetica,Arial,sans-serif;
   text-transform: none !important;
 }
